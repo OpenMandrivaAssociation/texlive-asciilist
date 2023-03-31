@@ -1,6 +1,6 @@
 Name:		texlive-asciilist
 Version:	49060
-Release:	1
+Release:	2
 Summary:	Environments AsciiList and AsciiDocList for prototyping nested lists in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/asciilist
