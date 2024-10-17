@@ -3,7 +3,7 @@ Version:	49060
 Release:	2
 Summary:	Environments AsciiList and AsciiDocList for prototyping nested lists in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/asciilist
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/asciilist
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asciilist.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asciilist.doc.r%{version}.tar.xz
